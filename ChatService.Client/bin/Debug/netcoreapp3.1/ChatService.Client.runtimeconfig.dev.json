@@ -1,0 +1,10 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dynam\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dynam\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
